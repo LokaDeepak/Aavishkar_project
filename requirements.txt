@@ -1,8 +1,7 @@
-pandas
-matplotlib
 streamlit
-PyPdf2
-pytesseract
-scikit learn
-numpy
+PyPDF2
+pandas
 pdf2image
+pytesseract
+Pillow
+scikit-learn
